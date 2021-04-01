@@ -8,6 +8,6 @@ arcade.experimental.lights
 There is a soft light object at center of a light wheel, 
 having six normal light objects at its periphery.
 
-The ligh objects pulsate between max / min size, 
+The light objects pulsate between max / min size, 
 while the light wheel as a whole keeps moving all over 
 the screen, at the same time, rotating around its axis.
